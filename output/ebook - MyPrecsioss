@@ -1,2 +1,1 @@
-git checkout -b meu-ebook
-git push -u origin meu-ebook
+git checkout -b feat/meu-ebook
